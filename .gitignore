@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/FluentData/v15
+/FluentData/obj
+/FluentData/bin
+/FluentData.IntegrationTests/obj
+/FluentData.IntegrationTests/bin/x64
+/FluentData.SingleSourceFile/bin
+/FluentData.SingleSourceFile/obj
+/FluentData.UnitTests/bin/x64
+/FluentData.UnitTests/obj
